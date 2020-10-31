@@ -2,8 +2,9 @@ import cv2
 import numpy as np
 from flask import Flask,render_template
 
-this is a change made by RIDA in feature/version1 branch
 
+this is a change made by SARA LOREN and she will create a PR for RIDA. 
+this is a change made by RIDA in feature/version1 branch
 app=Flask(__name__)
 
 @app.route('/')
